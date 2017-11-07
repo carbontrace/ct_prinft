@@ -12,6 +12,7 @@ Production Checklist
 - [ ] Handle minimum field-width
 - [ ] Handle precision
 - [ ] Handle flags, hh, h, l, ll, j, et z
+
 Bonus
 - [ ] Handle conversions (eE, fF, gG, aA, n)
 - [ ] Handle flags (*, $, L, ')
